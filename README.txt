@@ -2,7 +2,7 @@
 
 Compiling steps:
 
-cd OGLBaseLighting
+cd cat-cafe-graphics
 mkdir build
 cd build
 cmake ..
